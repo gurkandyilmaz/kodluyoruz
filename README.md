@@ -1,7 +1,7 @@
 # Kodluyoruz Ilk Repo
 Kodluyoruz egitimleri kapsaminda acilan ilk repo.
-kodluyoruz.org ve patika.dev egitimleri kampsaminda tamamlanan projeler detaylarini icerir.
-![proje](media/kodluyoruz.png)
+kodluyoruz.org ve patika.dev egitimleri kampsaminda tamamlanan proje detaylarini icerir.
+![repo-image](media/kodluyoruz.png)
 
 ## Installation
 Projeyi indirmek icin;

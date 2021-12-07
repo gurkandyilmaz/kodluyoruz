@@ -1,5 +1,14 @@
-/*ODEV 4*/
+/*ODEV 5*/
 
+/*ODEV 4*/
+/*
+SELECT COUNT(*) FROM city
+WHERE city ILIKE '%r'
+*/
+/*
+SELECT * FROM film
+WHERE title LIKE 'T%' AND rating = 'G'
+*/
 /*ODEV 3*/
 /*
 SELECT * FROM film

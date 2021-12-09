@@ -1,4 +1,10 @@
 /*ODEV 5*/
+/*
+SELECT * FROM customer
+WHERE store_id = 1 
+ORDER BY last_name DESC
+LIMIT 4
+*/
 
 /*ODEV 4*/
 /*
@@ -9,6 +15,7 @@ WHERE city ILIKE '%r'
 SELECT * FROM film
 WHERE title LIKE 'T%' AND rating = 'G'
 */
+
 /*ODEV 3*/
 /*
 SELECT * FROM film
@@ -24,6 +31,7 @@ ORDER BY title ASC
 SELECT * FROM country
 WHERE country LIKE '_____%n'
 */
+
 /*ODEV 2*/
 /*
 SELECT * FROM film
@@ -39,7 +47,6 @@ SELECT * from film
 WHERE replacement_cost BETWEEN 12.99 AND 16.98
 ORDER BY replacement_cost ASC
 */
-
 
 /*ODEV 1*/
 /*

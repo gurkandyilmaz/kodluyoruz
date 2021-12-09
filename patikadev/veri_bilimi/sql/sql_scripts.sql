@@ -1,3 +1,10 @@
+/*ODEV 7*/
+/*
+SELECT country_id, COUNT(city_id) from city
+GROUP BY country_id
+ORDER BY COUNT(city_id) DESC
+LIMIT 1
+*/
 /*ODEV 6*/
 /*
 SELECT COUNT(DISTINCT(replacement_cost)) from film

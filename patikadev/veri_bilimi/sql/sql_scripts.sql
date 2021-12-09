@@ -1,3 +1,8 @@
+/*ODEV 6*/
+/*
+SELECT COUNT(DISTINCT(replacement_cost)) from film
+WHERE length > 150
+*/
 /*ODEV 5*/
 /*
 SELECT * FROM customer
